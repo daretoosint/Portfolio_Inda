@@ -1,2 +1,2 @@
 # Portfolio_Inda
-My projects since day 1
+My OSINT-related projects since day 1
